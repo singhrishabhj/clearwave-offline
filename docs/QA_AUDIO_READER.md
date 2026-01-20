@@ -126,3 +126,7 @@ Interviewers look for:
 Being able to explain AudioReader clearly
 shows strong engineering basics.
 
+---
+
+## In what data type the audio samples are store and why ?
+Audio samples are stored as float[] because floating-point values are easier to process mathematically during noise reduction and filtering.
